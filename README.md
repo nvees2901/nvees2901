@@ -7,11 +7,10 @@
 <a href="https://github.com/nvees2901/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nvees2901&show_icons=true&theme=codeSTACKr" />
 </a>
-
 <a href="https://github.com/nvees2901/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nvees2901&theme=codeSTACKr&layout=compact&langs_count=8&card_width=320" />
 </a>
-  ##
+
  
 <div> 
   <a href="https://www.youtube.com/channel/UCXDA2Jvd0KEarTdGW_JUo-A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
