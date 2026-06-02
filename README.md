@@ -2,7 +2,6 @@
 
 
 - 🌱 Learning/Estudando: Sistemas de Informação
-- 😄 Pronouns/Pronomes: He/Him / Ele/Dele
 
 <a href="https://github.com/nvees2901/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nvees2901&show_icons=true&theme=codeSTACKr" />
